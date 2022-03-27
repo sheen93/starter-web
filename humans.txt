@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Sheen <twitter>
+    Sheen
+    msheen.ameen@gmail.com
+    DevOps Engineer
 
 # THANKS
 
