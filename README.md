@@ -10,6 +10,7 @@ A lot of lectures are already submited
 
 This is famous and one of the best training course of DevOps
 Adding gut rebase lectures and git advanced parts
+We have done a lot of work together
 
 ##Testing DIFF
 
