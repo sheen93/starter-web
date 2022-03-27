@@ -21,4 +21,4 @@ Another Line
 Fork the repo and raise pull request for review
 
 ##Edit
-Editing in github repo
+Adding new lectures for stash
