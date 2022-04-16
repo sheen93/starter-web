@@ -1,4 +1,4 @@
-z# humanstxt.org/
+# humanstxt.org/
 # The humans responsible & technology colophon
 
 Hi, I am solving the conflict
