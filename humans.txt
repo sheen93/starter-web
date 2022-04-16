@@ -20,4 +20,5 @@ Adding important note on git stash
 
     HTML5, CSS3
     jQuery, Modernizr, AWS, machine learning, google clou
-    Docker, Java Programming
+    Docker, Java 
+	AWS solution architect developer
