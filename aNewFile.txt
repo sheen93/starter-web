@@ -1,0 +1,2 @@
+#$Adding a new file on git project
+This file is still not tracked by git
