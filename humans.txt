@@ -1,10 +1,10 @@
-# humanstxt.org/
+z# humanstxt.org/
 # The humans responsible & technology colophon
 
 Hi, I am solving the conflict
 
 Doing some changes in the local`
-
+Adding important note on git stash
 
 # TEAM
 
